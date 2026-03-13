@@ -1,25 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=130&lines=████████╗███████╗██████╗+███╗+++███╗██╗+++██╗██╗++██╗;╚══██╔══╝██╔════╝██╔══██╗████╗+████║██║+++██║╚██╗██╔╝;+++██║+++█████╗++██████╔╝██╔████╔██║██║+++██║+╚███╔╝+;+++██║+++██╔══╝++██╔══██╗██║╚██╔╝██║██║+++██║+██╔██╗+;+++██║+++███████╗██║++██║██║+╚═╝+██║╚██████╔╝██╔╝+██╗;+++╚═╝+++╚══════╝╚═╝++╚═╝╚═╝+++++╚═╝+╚═════╝+╚═╝++╚═╝" alt="TERMUX" />
+<img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80"/>
+
+# termux-desktop
+
+**A full desktop environment installer & setup tool for Termux**
+
+*X11 · XFCE · proot-distro · Sound · Themes · One script to rule them all*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=██████╗+███████╗███████╗██╗++██╗████████╗+██████╗+██████╗+;██╔══██╗██╔════╝██╔════╝██║+██╔╝╚══██╔══╝██╔═══██╗██╔══██╗;██║++██║█████╗++███████╗█████╔╝++++██║+++██║+++██║██████╔╝;██║++██║██╔══╝++╚════██║██╔═██╗++++██║+++██║+++██║██╔═══╝+;██████╔╝███████╗███████║██║++██╗+++██║+++╚██████╔╝██║+++++%;╚═════╝+╚══════╝╚══════╝╚═╝++╚═╝++╚═╝++++╚═════╝+╚═╝+++++" alt="DESKTOP" />
-
-<br/><br/>
-
-<p>
-  <strong>A full desktop environment installer &amp; setup tool for Termux</strong><br/>
-  <em>X11 · XFCE · proot-distro · Sound · Themes · One script to rule them all</em>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/platform-Termux%20%7C%20Android-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/arch-AArch64-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/shell-zsh%20%2B%20nerd%20fonts-hotpink?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/mairecheco/termux-desktop?style=flat-square&color=blueviolet" />
-</p>
+![License](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Android-ff69b4?style=flat-square)
+![Arch](https://img.shields.io/badge/arch-AArch64-purple?style=flat-square)
+![Shell](https://img.shields.io/badge/shell-zsh%20%2B%20nerd%20fonts-hotpink?style=flat-square)
+![Stars](https://img.shields.io/github/stars/mairecheco/termux-desktop?style=flat-square&color=blueviolet)
 
 </div>
 
@@ -41,6 +36,8 @@ Just run `install.sh`, answer a few questions, and you're done.
 | **Windows 10** | Icons, themes, wallpaper |
 | **Windows 95** | Full retro pack |
 | **Windows XP** | Fonts, cursors, sounds, icons, wallpaper |
+
+> Credits for each style pack are included inside the style itself — check the `README` or `LICENSE` file within each downloaded pack.
 
 ---
 
@@ -87,9 +84,7 @@ bash install.sh
 
 ## 📦 Style Packs
 
-Styles are published as GitHub Releases and fetched automatically by the installer.
-
-Grab them manually from the [Releases](https://github.com/mairecheco/termux-desktop/releases) page:
+Styles are published as [GitHub Releases](https://github.com/mairecheco/termux-desktop/releases) and fetched automatically by the installer.
 
 | File | Contents |
 |------|----------|
@@ -113,7 +108,6 @@ termux-desktop/
 │   ├── apps.sh
 │   └── styles.sh
 └── assets/
-    └── screenshots/
 ```
 
 ---
