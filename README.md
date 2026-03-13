@@ -1,31 +1,25 @@
-
 <div align="center">
 
-```
-████████╗███████╗██████╗ ███╗   ███╗██╗   ██╗██╗  ██╗
-╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║   ██║╚██╗██╔╝
-   ██║   █████╗  ██████╔╝██╔████╔██║██║   ██║ ╚███╔╝ 
-   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║   ██║ ██╔██╗ 
-   ██║   ███████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-██████╗ ███████╗███████╗██╗  ██╗████████╗ ██████╗ ██████╗ 
-██╔══██╗██╔════╝██╔════╝██║ ██╔╝╚══██╔══╝██╔═══██╗██╔══██╗
-██║  ██║█████╗  ███████╗█████╔╝    ██║   ██║   ██║██████╔╝
-██║  ██║██╔══╝  ╚════██║██╔═██╗    ██║   ██║   ██║██╔═══╝ 
-██████╔╝███████╗███████║██║  ██╗   ██║   ╚██████╔╝██║     
-╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝     
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=130&lines=████████╗███████╗██████╗+███╗+++███╗██╗+++██╗██╗++██╗;╚══██╔══╝██╔════╝██╔══██╗████╗+████║██║+++██║╚██╗██╔╝;+++██║+++█████╗++██████╔╝██╔████╔██║██║+++██║+╚███╔╝+;+++██║+++██╔══╝++██╔══██╗██║╚██╔╝██║██║+++██║+██╔██╗+;+++██║+++███████╗██║++██║██║+╚═╝+██║╚██████╔╝██╔╝+██╗;+++╚═╝+++╚══════╝╚═╝++╚═╝╚═╝+++++╚═╝+╚═════╝+╚═╝++╚═╝" alt="TERMUX" />
 
-**A full desktop environment installer & setup tool for Termux**  
-*X11 · XFCE · proot-distro · Sound · Themes · One script to rule them all*
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=██████╗+███████╗███████╗██╗++██╗████████╗+██████╗+██████╗+;██╔══██╗██╔════╝██╔════╝██║+██╔╝╚══██╔══╝██╔═══██╗██╔══██╗;██║++██║█████╗++███████╗█████╔╝++++██║+++██║+++██║██████╔╝;██║++██║██╔══╝++╚════██║██╔═██╗++++██║+++██║+++██║██╔═══╝+;██████╔╝███████╗███████║██║++██╗+++██║+++╚██████╔╝██║+++++%;╚═════╝+╚══════╝╚══════╝╚═╝++╚═╝++╚═╝++++╚═════╝+╚═╝+++++" alt="DESKTOP" />
 
-![License](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Android-ff69b4?style=flat-square)
-![Arch](https://img.shields.io/badge/arch-AArch64-purple?style=flat-square)
-![Shell](https://img.shields.io/badge/shell-zsh%20%2B%20nerd%20fonts-hotpink?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mairecheco/termux-desktop?style=flat-square&color=blueviolet)
+<br/><br/>
+
+<p>
+  <strong>A full desktop environment installer &amp; setup tool for Termux</strong><br/>
+  <em>X11 · XFCE · proot-distro · Sound · Themes · One script to rule them all</em>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/platform-Termux%20%7C%20Android-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/arch-AArch64-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/shell-zsh%20%2B%20nerd%20fonts-hotpink?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/mairecheco/termux-desktop?style=flat-square&color=blueviolet" />
+</p>
 
 </div>
 
@@ -41,12 +35,12 @@ Just run `install.sh`, answer a few questions, and you're done.
 
 ## 🎨 Available Styles
 
-| Style | Preview |
-|-------|---------|
-| **macOS (Ventura)** | ![macos](styles/macos/ventura-xfce.png) |
-| **Windows 10** | ![win10](styles/windows10/screenshot.png) |
-| **Windows 95** | *(retro vibes)* |
-| **Windows XP** | *(bliss wallpaper included)* |
+| Style | Description |
+|-------|-------------|
+| **macOS Ventura** | GTK theme, cursors, dock, wallpapers |
+| **Windows 10** | Icons, themes, wallpaper |
+| **Windows 95** | Full retro pack |
+| **Windows XP** | Fonts, cursors, sounds, icons, wallpaper |
 
 ---
 
@@ -61,7 +55,7 @@ Just run `install.sh`, answer a few questions, and you're done.
 - **Browser choice** — Firefox, Chromium, or Falkon
 - **App selection** — office, editors, media, and more
 - **Custom home layout** — `~/Desktop`, `~/Documents`, `~/Downloads`, `~/Pictures`, etc.
-- **Styles fetched from GitHub** — always up to date
+- **Styles fetched from GitHub Releases** — always up to date
 
 ---
 
@@ -87,21 +81,22 @@ bash install.sh
 |---------|-------------|
 | `startx11` | Start the XFCE desktop session |
 | `stopx11` | Stop the X11 session |
+| `pd-login` | Enter your proot-distro container |
 
 ---
 
 ## 📦 Style Packs
 
-Styles are published as GitHub Releases. The installer fetches and applies them automatically based on your choice.
+Styles are published as GitHub Releases and fetched automatically by the installer.
 
-You can also grab them manually from the [Releases](https://github.com/mairecheco/termux-desktop/releases) page:
+Grab them manually from the [Releases](https://github.com/mairecheco/termux-desktop/releases) page:
 
-| Release Tag | Contents |
-|-------------|----------|
-| `style-macos` | macOS Ventura theme, cursors, dock, GTK, wallpapers |
-| `style-windows10` | Windows 10 icons, themes, wallpaper |
-| `style-windows95` | Windows 95 retro pack |
-| `style-windowsxp` | Windows XP full pack (fonts, cursors, sounds, icons) |
+| File | Contents |
+|------|----------|
+| `style-macos.tar.gz` | macOS Ventura theme, cursors, dock, GTK, wallpapers |
+| `style-windows10.tar.gz` | Windows 10 icons, themes, wallpaper |
+| `style-windows95.tar.gz` | Windows 95 retro pack |
+| `style-windowsxp.tar.gz` | Windows XP full pack (fonts, cursors, sounds, icons) |
 
 ---
 
@@ -109,19 +104,14 @@ You can also grab them manually from the [Releases](https://github.com/mairechec
 
 ```
 termux-desktop/
-├── install.sh              # main installer
+├── install.sh
 ├── lib/
-│   ├── x11.sh              # X11 / startx11 / stopx11 setup
-│   ├── sound.sh            # PulseAudio setup
-│   ├── proot.sh            # proot-distro container setup
-│   ├── shell.sh            # zsh + nerd fonts + prompt
-│   ├── apps.sh             # software installation
-│   └── styles.sh           # theme/style fetcher & applier
-├── styles/
-│   ├── macos/
-│   ├── windows10/
-│   ├── windows95/
-│   └── windowsxp/
+│   ├── x11.sh
+│   ├── sound.sh
+│   ├── proot.sh
+│   ├── shell.sh
+│   ├── apps.sh
+│   └── styles.sh
 └── assets/
     └── screenshots/
 ```
@@ -143,7 +133,7 @@ Made with 💜 by **[mairecheco](https://github.com/mairecheco)**
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
